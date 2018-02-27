@@ -1,5 +1,4 @@
 
-require_relative("./players.rb")
 
 class Turn
 
